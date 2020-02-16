@@ -28,7 +28,10 @@ Requirements:
 In server explorer > add database
 fill in data and add
 ![add MySQL connection](/images/add_server_visual_studio.png)
-(incoming)
+(this step is optional, allows you to see database directly)
+
+Mandatory is to install the package EntityFramework (Project > Manage NuGet Packages)
+
 
 #### java (Eclipse/Intellij)
 (incoming
