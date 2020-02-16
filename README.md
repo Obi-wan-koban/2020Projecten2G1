@@ -26,12 +26,12 @@ Requirements:
  - [MySQL for Visual Studio](https://dev.mysql.com/downloads/windows/visualstudio/)
 
 In server explorer > add database
-fill in data and add
+fill in data and add the following data
+
 ![add MySQL connection](/images/add_server_visual_studio.png)
 (this step is optional, allows you to see database directly)
 
 Mandatory is to install the package EntityFramework (Project > Manage NuGet Packages)
-
 
 #### java (Eclipse/Intellij)
 (incoming
