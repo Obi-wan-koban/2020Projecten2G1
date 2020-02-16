@@ -2,12 +2,13 @@
 2019-2020 Hogent Informatics group project
 
 ## Database info
-Database information:
-Username: i97bEE0fyV
-Database name: i97bEE0fyV
-Server: remotemysql.com
-Port: 3306
-password: see keepass
+| Database information |  |
+| - | - |
+| Username | i97bEE0fyV |
+| Database name | i97bEE0fyV |
+| Server | remotemysql.com |
+| Port | 3306 |
+| password | see keepass |
 
 All database scripts in the Scripts folder please!
 
